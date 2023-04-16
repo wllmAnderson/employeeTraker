@@ -1,0 +1,24 @@
+{
+  "name": "employeetraker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "connection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wllmAnderson/employeeTraker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wllmAnderson/employeeTraker/issues"
+  },
+  "homepage": "https://github.com/wllmAnderson/employeeTraker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.2.1"
+  }
+}
